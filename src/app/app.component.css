@@ -1,0 +1,18 @@
+.app-title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #2c2c54;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.form-control {
+    width: 30rem;
+    display: inline-block;
+}
